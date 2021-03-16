@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Device tree -->
+  <project name="matt0301/device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="github" revision="eleven" />
+  <project name="matt0301/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="eleven" />
+  <project name="matt0301/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="eleven" />
+  <project name="matt0301/vendor_oneplus" path="vendor/oneplus" remote="github" revision="eleven" />
+  <project name="matt0301/device_oneplus_common" path="device/oneplus/common" remote="github" revision="eleven" />
+  <project name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-7141649" path="prebuilts/clang/host/linux-x86/clang-7141649" remote="github" revision="11.0" />  
+
+<!-- HALs-->
+  <remove-project name="hardware_qcom-caf_sm8150_display" />
+  <remove-project name="hardware_qcom-caf_sm8150_media" />
+  <project name="yaap/hardware_qcom-caf_sm8150_display" path="hardware/qcom-caf/sm8150/display" remote="github" revision="eleven" />
+  <project name="yaap/hardware_qcom-caf_sm8150_media" path="hardware/qcom-caf/sm8150/media" remote="github" revision="eleven" />
+</manifest>
