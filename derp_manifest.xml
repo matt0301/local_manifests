@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-<!-- Device tree -->
-  <project name="matt0301/device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="github" revision="derp-rebase" />
-  <project name="matt0301/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="derp-rebase" />
-  <project name="yaap/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="eleven" />
-  <project name="matt0301/vendor_oneplus" path="vendor/oneplus" remote="github" revision="derp-rebase" />
-  <project name="matt0301/device_oneplus_common" path="device/oneplus/common" remote="github" revision="derp" />  
-
+  <project name="DerpFest-Devices/device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="github" revision="11" />
+  <project name="DerpFest-Devices/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="11" />
+  <project name="DerpFest-Devices/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="11" />
+  <project name="DerpFest-Devices/vendor_oneplus" path="vendor/oneplus" remote="github" revision="11-wip" />
+  <project name="DerpFest-Devices/device_oneplus_common" path="device/oneplus/common" remote="github" revision="11" />
 </manifest>
