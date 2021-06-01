@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="DerpFest-Devices/device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="github" revision="11-dolby" />
-  <project name="npv12/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="11" />
+  <project name="DerpFest-Devices/device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="github" revision="11" />
+  <project name="DerpFest-Devices/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="11" />
   <project name="RealJohnGalt/GaltsGulch-sm8150" path="kernel/oneplus/sm8150" remote="github" revision="gulch_r" />
-  <project name="DerpFest-Devices/vendor_oneplus" path="vendor/oneplus" remote="github" revision="11-alex" />
+  <project name="DerpFest-Devices/vendor_oneplus" path="vendor/oneplus" remote="github" revision="11" />
   <project name="DerpFest-Devices/device_oneplus_common" path="device/oneplus/common" remote="github" revision="11" />
 </manifest>
