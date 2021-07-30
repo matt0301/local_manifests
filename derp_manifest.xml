@@ -3,13 +3,7 @@
 
   <project name="DerpFest-Devices/device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="github" revision="11" />
   <project name="DerpFest-Devices/device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="11" />
-  <project name="RealJohnGalt/GaltsGulch-sm8150" path="kernel/oneplus/sm8150" remote="github" revision="gulch_r" />
+  <project name="DerpFest-Devices/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="11" />
   <project name="DerpFest-Devices/vendor_oneplus" path="vendor/oneplus" remote="github" revision="11" />
   <project name="DerpFest-Devices/device_oneplus_common" path="device/oneplus/common" remote="github" revision="11" />
-
-  <!-- HALs-->
-  <remove-project name="frameworks_base" />
-  <remove-project name="packages_overlays_Shishufied" />
-  <project name="frameworks_base" path="frameworks/base" remote="github" revision="11-renoir" />
-  <project name="packages_overlays_Shishufied" path="packages/overlays/Shishufied" remote="github" revision="11-renoir" />
-</manifest>
+  <project name="DerpFest/vendor_oneplus_apps/" path="vendor/oneplus/apps" remote="gitlab" revision="11" />
