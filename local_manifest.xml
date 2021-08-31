@@ -3,7 +3,7 @@
   <project name="dotOS-Devices/device_oneplus_hotdogb" path="device/oneplus/hotdogb" remote="github" revision="dot11" />
   <project name="dotOS-Devices/android_device_oneplus_sm8150-common" path="device/oneplus/sm8150-common" remote="github" revision="dot11" />
   <project name="yaap/kernel_oneplus_sm8150" path="kernel/oneplus/sm8150" remote="github" revision="eleven" />
-  <project name="matt0301/vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="gitlab" revision="dot11" />
-  <project name="matt0301/vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="gitlab" revision="dot11" />
+  <project name="dotos-devices/vendor_oneplus_hotdogb" path="vendor/oneplus/hotdogb" remote="gitlab" revision="dot11" />
+  <project name="dotos-devices/vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="gitlab" revision="dot11" />
   <project name="DotOS-devices/android_device_oneplus_common" path="device/oneplus/common" remote="github" revision="dot11" />
 </manifest>
